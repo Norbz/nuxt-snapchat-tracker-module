@@ -1,6 +1,6 @@
 {
   "name": "nuxt-snapchat-tracker-module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A nuxt module allowing for snapchat tracker integration",
   "repository": "Norbz/nuxt-snapchat-tracker-module",
   "license": "MIT",

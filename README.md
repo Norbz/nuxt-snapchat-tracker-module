@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280px" src="https://raw.githubusercontent.com/Norbz/nuxt-snapchat-tracker-module/master/src/assets/logo.png" alt="logo" />
+  <img width="280px" src="https://raw.githubusercontent.com/Norbz/nuxt-snapchat-tracker-module/master/assets/logo.png" alt="logo" />
 </p>
 <br>
 <p align="center">
@@ -84,7 +84,7 @@ This will enable the tracker AND call a track event with the Event specified in 
 ## User informations
 In attempt to better match the user browser, snapchat tracker allows you to provide an email or a phone number when initialising the tracker.
 
-To init the tracker providing user informations, simply add them as an argument when enabling the tracker. You won't be able to pass some user information if you auto start the tracker as it wouldn't make any sense.
+To init the tracker providing user's informations, simply add them as an argument when enabling the tracker. You won't be able to pass some user information if you auto start the tracker as it wouldn't make any sense.
 
 ```js
 this.$snaptr.enable({

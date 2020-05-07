@@ -1,9 +1,16 @@
-# nuxt-snapchat-tracker-module
+<p align="center">
+  <img width="280px" src="https://raw.githubusercontent.com/Norbz/nuxt-snapchat-tracker-module/develop/src/assets/logo.png" alt="logo" />
+</p>
+<br>
+<p align="center">
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 
+</p>
+
+# nuxt-snapchat-tracker-module
 > A nuxt module for snapchat tracker integration
 
 [📖 **Release Notes**](./CHANGELOG.md)

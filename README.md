@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280px" src="https://raw.githubusercontent.com/Norbz/nuxt-snapchat-tracker-module/develop/src/assets/logo.png" alt="logo" />
+  <img width="280px" src="https://raw.githubusercontent.com/Norbz/nuxt-snapchat-tracker-module/master/src/assets/logo.png" alt="logo" />
 </p>
 <br>
 <p align="center">

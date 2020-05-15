@@ -121,7 +121,7 @@ The tracker  is available everywhere and allows you to call specific tracking ev
 
 [MIT License](./LICENSE)
 
-Copyright (c) Nicolas Chesné
+Copyright (c) Nicolas Chesné - Crafted with  ❤️️  at [la chose paris](❤️https://www.lachose.fr)
 
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/nuxt-snapchat-tracker-module/latest.svg
